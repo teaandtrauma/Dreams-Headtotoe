@@ -79,16 +79,6 @@ Throughout the checklist, I drop tips like:
 	•	Charting tricks that protect your license
 	•	Reminders to slow down and do it right the first time
 
-⸻
-
-🔄 Version History
-	•	v1.0 – Dream built the blueprint. You’re welcome.
-	•	v1.1 – Auto-save added so you stop losing notes like your AirPods.
-	•	v1.2 – Now it works great on phones too. You mobile now, baby.
-	•	v1.3 – Reset button added for the next victim—I mean, patient.
-
-⸻
-
 🆘 Need Help?
 
 If it ain’t loading or acting funny:
